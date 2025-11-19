@@ -1,0 +1,11 @@
+file_format: "1"
+id: Mokulate
+name: Mokulate
+type: shield
+url: https://github.com/black-trooper/zmk-config-Mokulate
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - Mokulate_left
+  - Mokulate_right
