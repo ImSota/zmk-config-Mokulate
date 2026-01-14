@@ -22,7 +22,7 @@
 &kp ESC                       &ng Q         &ng W      &ng E  &ng R                 &ng T    &ng Y      &ng U          &ng I      &ng O             &ng P              &kp MINUS
 &kp TAB                       &ng A         &ng S      &ng D  &ng F                 &ng G    &ng H      &ng J          &ng K      &ng L             &ng SEMI           &kp APOS
 &kp LSHFT                     &ng Z         &ng X      &ng C  &ng V                 &ng B    &ng N      &ng M          &ng COMMA  &ng DOT           &ng FSLH           &kp BACKSLASH
-&mt LEFT_ALT INTERNATIONAL_5  &kp LEFT_WIN  &kp LCTRL  &mo 2  &mt LEFT_SHIFT SPACE  &mo 1    &lt 3 RET  &kp BACKSPACE  &mo 3      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &lt 4 INTERNATIONAL_4
+&mt LEFT_ALT INTERNATIONAL_5  &kp LEFT_WIN  &kp LCTRL  &mo 2  &ng SPACE  &mo 1    &lt 3 RET  &kp BACKSPACE  &mo 3      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &lt 4 INTERNATIONAL_4
             >;
         };
 
