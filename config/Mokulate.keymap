@@ -92,14 +92,14 @@
         compatible = "zmk,combos";
         combo_ng_on {
             timeout-ms = <300>;
-            key-positions = <19 20>;
+            key-positions = <18 19>;
             bindings = <&ng_on>;
             layers = <0 1>;
         };
 
         combo_ng_off {
             timeout-ms = <300>;
-            key-positions = <17 18>;
+            key-positions = <16 17>;
             bindings = <&ng_off>;
             layers = <0 1>;
         };
